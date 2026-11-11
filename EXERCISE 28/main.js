@@ -21,4 +21,4 @@ function fetchDataWithPromise() {
     }
 }
 
-getData()
+getData();
